@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <test name="Test(failed)" preserve-order="false">
+    <classes>
+      <class name="probandoMaven.bcSwitch">
+        <methods>
+          <include name="abrirFacebook"/>
+          <include name="abriendoBrowser"/>
+          <include name="abrirGoogle"/>
+          <include name="abrirYoutube"/>
+        </methods>
+      </class>
+    </classes>
+  </test>
+</suite>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DEV-BA" name="probandoMaven.bcSwitch" tests="4" failures="1" timestamp="7 Nov 2016 17:46:43 GMT" time="13.075" errors="0">
+  <testcase name="abriendoBrowser" time="13.04" classname="probandoMaven.bcSwitch">
+    <failure type="java.lang.NullPointerException">
+      <![CDATA[java.lang.NullPointerException
+	at probandoMaven.bcSwitch.abriendoBrowser(bcSwitch.java:38)
+... Removed 25 stack frames]]>
+    </failure>
+  </testcase>
+  <testcase name="abrirFacebook" time="0.001" classname="probandoMaven.bcSwitch">
+    <skipped/>
+  </testcase>
+  <testcase name="abrirGoogle" time="0.0" classname="probandoMaven.bcSwitch">
+    <skipped/>
+  </testcase>
+  <testcase name="abrirYoutube" time="0.001" classname="probandoMaven.bcSwitch">
+    <skipped/>
+  </testcase>
+</testsuite>
